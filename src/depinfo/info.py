@@ -17,8 +17,9 @@
 
 
 import platform
-from importlib.metadata import PackageNotFoundError, distribution, version
 from typing import Dict, Iterable, Tuple
+
+from importlib_metadata import PackageNotFoundError, distribution, version
 
 
 __all__ = (

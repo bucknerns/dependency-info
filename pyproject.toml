@@ -7,4 +7,3 @@ requires = [
 
 [tool.black]
 line-length = 88
-python-version = ['py36', 'py37', 'py38', 'py39']
